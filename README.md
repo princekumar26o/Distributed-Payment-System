@@ -1,1 +1,4 @@
 # Distributed-Payment-System
+## Distributed Payment System
+
+Designed and implemented a Distributed Payment System using C++ and Object-Oriented Programming (OOP) principles. The system supports payment processing, transaction management, payment status tracking, and refund handling. It uses modular components such as Payment Service, Payment Gateway, Payment Repository, and Notification Service to ensure separation of concerns and maintainability. Implemented idempotency to prevent duplicate payment processing and designed mechanisms to handle failures, retries, and asynchronous payment confirmations. The architecture emphasizes reliability, scalability, fault tolerance, and secure transaction handling. This project demonstrates practical applications of Low-Level Design (LLD), design patterns, and distributed systems concepts.
